@@ -1,0 +1,25 @@
+.DS_Store
+**/.ipynb_checkpoints/
+**/__pycache__/
+*.pyc
+.env
+.env.*
+
+# 수집 원문과 실행 결과는 공개 저장소 밖에 보관
+data/
+results/
+code/data/
+code/results/
+*.csv
+*.xlsx
+*.pkl
+*.pickle
+*.parquet
+*.jsonl
+
+# 내부 작업 파일과 실행 환경
+portfolio_work_context.md
+.claude/
+.Codex/
+.venv/
+venv/
