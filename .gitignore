@@ -19,7 +19,5 @@ code/results/
 
 # 내부 작업 파일과 실행 환경
 portfolio_work_context.md
-.claude/
-.Codex/
 .venv/
 venv/
